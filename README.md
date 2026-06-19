@@ -9,7 +9,3 @@ My technical expertise includes Python, Java, React.js, Django, HTML, CSS, JavaS
 - `index.html` — main portfolio page
 - `style.css` — styling for the portfolio
 - `script.js` — interactive behavior
-
-## Notes
-
-This project is pushed to GitHub at `https://github.com/Tejasreemohan/teja-portfolio.git`.
